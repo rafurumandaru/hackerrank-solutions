@@ -1,6 +1,6 @@
 # hackerrank-solutions
 Python and SQL solutions to HackerRank coding challenges
-# Hi, I'm Rahul Mandal 👋
+# Hi,I'm Rahul Mandal 👋
 
 🎓 BCA Graduate from Techno India Kolkata (MAKAUT)
 💻 Python Developer | Aspiring Data/QA Professional
